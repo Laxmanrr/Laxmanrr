@@ -68,21 +68,6 @@ A professional services/portfolio site showcasing design, development, and SEO o
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laxmanrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Laxmanrr&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmanrr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
